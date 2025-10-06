@@ -1,6 +1,6 @@
 /* Importamos el archivo "fonts.css" el cual contiene las fuentes del proyecto */
 
-@import url("fonts.css");
+@import url('fonts.css');
 
 /* Variables Colors */
 :root {
@@ -91,7 +91,7 @@ main {
 
             .btn_learning {
                 padding: 4px 12px;
-                font-weight: 900;
+                font-weight: 800;
                 line-height: 1.5;
                 border-radius: 4px;
                 background: var(--color-yellow);
@@ -104,7 +104,7 @@ main {
             }
 
             h1 {
-                font-weight: 900;
+                font-weight: 800;
                 font-size: 1.25rem;
                 line-height: 1.5;
 
@@ -129,7 +129,7 @@ main {
 
             p {
                 font-size: 0.875rem;
-                font-weight: 900;
+                font-weight: 800;
                 line-height: 1.5;
             }
         }
